@@ -1,6 +1,6 @@
 # tinymce
-tinymce_demo 
-本地引入tinymce富文本编辑器
+
+小程序设计 demo
 npm install
 npm run serve
 npm run build
